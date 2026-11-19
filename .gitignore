@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local Data Files 
+data/MUP_INP_RY26_P03_V10_DY24_PrvSvc.CSV
+data/cleaned_provider_drg_data.csv
