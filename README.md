@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/status-in%20progress-D97706?style=flat-square)
 
-Borne out of curiosity from a recent physical therapy trip I had and the exorbitant costs, this project benchmarks Medicare inpatient payments across U.S. hospitals, adjusts for the mix of cases each hospital treats, and uses statistical process control to flag hospitals whose payments fall outside expected limits. We look to explore how Medicare pays different hospitals for the same condition.
+Born out of curiosity from a recent physical therapy trip I had and the exorbitant costs, this project benchmarks Medicare inpatient payments across U.S. hospitals, adjusts for the mix of cases each hospital treats, and uses statistical process control to flag hospitals whose payments fall outside expected limits. We look to explore how Medicare pays different hospitals for the same condition.
 
 ## Questions
 1. How much does payment vary across hospitals for the same diagnosis-related group (DRG)?
@@ -21,11 +21,6 @@ Borne out of curiosity from a recent physical therapy trip I had and the exorbit
 
 ## Progress
 - Currently working on data ingestion and cleaning pipeline
-- [x] Data ingestion and cleaning pipeline
-- [ ] Price variation and case-mix index
-- [ ] Markup and urban/rural analysis
-- [ ] Funnel plot outlier detection
-- [ ] Power BI dashboard
 
 ## Built with
 `Python` `pandas` `NumPy` `Plotly` `Power BI`
